@@ -8,6 +8,6 @@ public class MediaUNIP {
     public double mediaSemestral(){ return (np1 + np2) * 0.4 + pim * 0.2; }
 
     public double notaNecessariaExame(){ return 10 - mediaSemestral(); }
-    public double mediaFinal(){ return mediaSemestral() + exame / 2; }
+    public double mediaFinal(){ return (mediaSemestral() + exame) / 2; }
 
 }
