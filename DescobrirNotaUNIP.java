@@ -15,7 +15,7 @@ public class DescobrirNotaUNIP {
             System.out.println("=========================================================================");
 
             System.out.println("Escolha uma opção: ");
-            System.out.println("1- Calculo de Np1,NP2 e PIM");
+            System.out.println("1- Calculo de Np1, NP2 e PIM");
             System.out.println("2- Calculo de Media Final  (nota semestral + Exame)");
             System.out.println("3- Sair");
 
