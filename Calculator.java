@@ -1,4 +1,4 @@
-public class MediaUNIP {
+public class Calculator {
     public String nome;
     public double np1;
     public double np2;

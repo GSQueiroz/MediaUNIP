@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class DescobrirNotaUNIP {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        MediaUNIP unip = new MediaUNIP();
+        Calculator unip = new Calculator();
         boolean continuar = true;
 
         System.out.print("Qual o seu nome?: ");
